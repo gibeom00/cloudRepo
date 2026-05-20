@@ -11,7 +11,7 @@ function App() {
         {/* ... existing next-steps content if you want to keep it, 
             but for a clean example, let's keep it simple */}
       </section>
-    </div>
+    </div>  
   )
 }
 
